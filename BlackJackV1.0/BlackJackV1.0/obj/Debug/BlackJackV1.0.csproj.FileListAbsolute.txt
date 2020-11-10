@@ -1,0 +1,15 @@
+C:\Users\gaa61\source\repos\BlackJackV1.0\BlackJackV1.0\bin\Debug\BlackJackV1.0.exe.config
+C:\Users\gaa61\source\repos\BlackJackV1.0\BlackJackV1.0\bin\Debug\BlackJackV1.0.exe
+C:\Users\gaa61\source\repos\BlackJackV1.0\BlackJackV1.0\bin\Debug\BlackJackV1.0.pdb
+C:\Users\gaa61\source\repos\BlackJackV1.0\BlackJackV1.0\obj\Debug\BlackJackV1.0.csprojAssemblyReference.cache
+C:\Users\gaa61\source\repos\BlackJackV1.0\BlackJackV1.0\obj\Debug\MainWindow.g.cs
+C:\Users\gaa61\source\repos\BlackJackV1.0\BlackJackV1.0\obj\Debug\App.g.cs
+C:\Users\gaa61\source\repos\BlackJackV1.0\BlackJackV1.0\obj\Debug\BlackJackV1.0_MarkupCompile.cache
+C:\Users\gaa61\source\repos\BlackJackV1.0\BlackJackV1.0\obj\Debug\BlackJackV1.0_MarkupCompile.lref
+C:\Users\gaa61\source\repos\BlackJackV1.0\BlackJackV1.0\obj\Debug\MainWindow.baml
+C:\Users\gaa61\source\repos\BlackJackV1.0\BlackJackV1.0\obj\Debug\BlackJackV1.0.g.resources
+C:\Users\gaa61\source\repos\BlackJackV1.0\BlackJackV1.0\obj\Debug\BlackJackV1._0.Properties.Resources.resources
+C:\Users\gaa61\source\repos\BlackJackV1.0\BlackJackV1.0\obj\Debug\BlackJackV1.0.csproj.GenerateResource.cache
+C:\Users\gaa61\source\repos\BlackJackV1.0\BlackJackV1.0\obj\Debug\BlackJackV1.0.csproj.CoreCompileInputs.cache
+C:\Users\gaa61\source\repos\BlackJackV1.0\BlackJackV1.0\obj\Debug\BlackJackV1.0.exe
+C:\Users\gaa61\source\repos\BlackJackV1.0\BlackJackV1.0\obj\Debug\BlackJackV1.0.pdb
