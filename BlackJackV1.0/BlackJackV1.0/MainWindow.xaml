@@ -1,0 +1,35 @@
+﻿<Window x:Class="BlackJackV1._0.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BlackJackV1._0"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Window.Background>
+        <ImageBrush ImageSource="images/Background/background.jpg" Stretch="UniformToFill" TileMode="FlipXY"></ImageBrush>
+    </Window.Background>
+    <Grid >
+        <TextBox x:Name="TbUserName" HorizontalAlignment="Left" Height="40" Margin="11,352,0,27" TextWrapping="Wrap" Text="UserName" Width="241" VerticalAlignment="Center" FontSize="22" Background="Black" Foreground="#FFFFBD0B" TabIndex="1"/>
+        <TextBox x:Name="TBPassword" Margin="258,352,0,27" TextWrapping="Wrap" Text="Password" HorizontalAlignment="Left" Width="241" VerticalAlignment="Center" FontSize="22" Height="40" RenderTransformOrigin="1.847,-2.013" Background="Black" Foreground="#FFFFBD0B" TabIndex="2"/>
+        <Label Content="BlackJack" HorizontalAlignment="Left" VerticalAlignment="Top" RenderTransformOrigin="9.705,2.859" Margin="31,23,0,0" FontSize="72">
+            <Label.Foreground>
+                <RadialGradientBrush>
+                    <GradientStop Color="#FFECCF9E" Offset="0"/>
+                    <GradientStop Color="#FFFFA200" Offset="1"/>
+                </RadialGradientBrush>
+            </Label.Foreground>
+        </Label>
+        <Button x:Name="BTNLogin" Content="Login" HorizontalAlignment="Left" Margin="521,352,0,0" VerticalAlignment="Top" Width="91" FontSize="24" Height="40" Background="Black" Foreground="#FFFFBD0B" TabIndex="3"/>
+        <Button x:Name="BTNCreateAcc" Content="Creat Account" HorizontalAlignment="Left" Margin="617,352,0,0" VerticalAlignment="Top" Width="166" FontSize="24" Height="40" Background="Black" Foreground="#FFFFBD0B" TabIndex="4"/>
+        <Label Content="The Game" HorizontalAlignment="Left" VerticalAlignment="Top" RenderTransformOrigin="9.705,2.859" Margin="31,115,0,0" FontSize="72">
+            <Label.Foreground>
+                <RadialGradientBrush>
+                    <GradientStop Color="#FFECCF9E" Offset="0"/>
+                    <GradientStop Color="#FFB87500" Offset="1"/>
+                </RadialGradientBrush>
+            </Label.Foreground>
+        </Label>
+
+    </Grid>
+</Window>
